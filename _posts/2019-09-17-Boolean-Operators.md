@@ -3,7 +3,7 @@ layout: post
 title: Boolean Operators
 ---
 
-### 16 Boolean Operators:
+The following are 16 boolean operators commonly used in the logic of programming.
 
  # Contradiction
 
