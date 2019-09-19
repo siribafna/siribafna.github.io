@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boolean Operators, Boot Camp Day #2
+title: Boolean Operators
 ---
 
 ### 16 Boolean Operators:
