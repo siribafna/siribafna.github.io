@@ -5,7 +5,7 @@ title: Boolean Operators
 
 The following are 16 boolean operators commonly used in the logic of programming.
 
- # Contradiction
+# Contradiction
 
  a | b | a ⊥ b
 --- | --- | ---
@@ -14,7 +14,7 @@ The following are 16 boolean operators commonly used in the logic of programming
 True | False | False
 False | False  | False
 
- # Logical NOR
+# Logical NOR
 
  a | b | a ↓ b
 --- | --- | ---
