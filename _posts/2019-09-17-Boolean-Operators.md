@@ -27,10 +27,10 @@ False | False  | True
 
  a | b | a ↚ b
 --- | --- | ---
-*True* | True | False
-*False* | True | False
-True | False | True
-False | False  | False
+*True*  |  True  |  False
+*False*  |  True  |  False
+True  |  False  |  True
+False  |  False   |  False
 
 # Negation
 
