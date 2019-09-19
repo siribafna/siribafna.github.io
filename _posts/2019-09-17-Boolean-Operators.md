@@ -5,7 +5,7 @@ title: Boolean Operators, Boot Camp Day #2
 
 ### 16 Boolean Operators:
 
- * Contradiction
+ # Contradiction
 
  a | b | a ⊥ b
 --- | --- | ---
@@ -14,7 +14,7 @@ title: Boolean Operators, Boot Camp Day #2
 True | False | False
 False | False  | False
 
- * Logical NOR
+ # Logical NOR
 
  a | b | a ↓ b
 --- | --- | ---
@@ -23,7 +23,7 @@ False | False  | False
 True | False | False
 False | False  | True
 
-* Converse Nonimplication
+# Converse Nonimplication
 
  a | b | a ↚ b
 --- | --- | ---
@@ -32,7 +32,7 @@ False | False  | True
 True | False | True
 False | False  | False
 
-* Negation
+# Negation
 
  a | b | ¬a
 --- | --- | ---
@@ -41,7 +41,7 @@ False | False  | False
 True | False | True
 False | False  | True
 
-* Material Nonimplication
+# Material Nonimplication
 
  a | b | a ↛ b
 --- | --- | ---
@@ -50,7 +50,7 @@ False | False  | True
 True | False | False
 False | False  | False
 
-* Negation flipped
+# Negation flipped
 
  a | b | ¬b
 --- | --- | ---
@@ -59,7 +59,7 @@ False | False  | False
 True | False | False
 False | False  | True
 
-* Exclusive Disjunction
+# Exclusive Disjunction
 
  a | b | a ⊕ b
 --- | --- | ---
@@ -68,7 +68,7 @@ False | False  | True
 True | False | True
 False | False  | False
 
-* Logical NAND
+# Logical NAND
 
  a | b | a ↑ b
 --- | --- | ---
@@ -77,7 +77,7 @@ False | False  | False
 True | False | True
 False | False  | True
 
-* Logical Conjunction
+# Logical Conjunction
 
  a | b | 	a ∧ b
 --- | --- | ---
@@ -86,7 +86,7 @@ False | False  | True
 True | False | False
 False | False  | False
 
-* Logical Biconditional (p if and only q)
+# Logical Biconditional (p if and only q)
 
  a | b | XNOR
 --- | --- | ---
@@ -95,7 +95,7 @@ False | False  | False
 True | False | False
 False | False  | True
 
-*Projection Function (p, l pq)
+# Projection Function (p, l pq)
 
  a | b | b
 --- | --- | ---
@@ -104,7 +104,7 @@ False | False  | True
 True | False | True
 False | False  | False
 
-* Material Implication (if p then q)
+# Material Implication (if p then q)
 
  a | b | a → b
 --- | --- | ---
@@ -113,7 +113,7 @@ False | False  | False
 True | False | True
 False | False  | True
 
-* Projection Function (2)
+# Projection Function (2)
 
  a | b | a
 --- | --- | ---
@@ -122,7 +122,7 @@ False | False  | True
 True | False | False
 False | False  | False
 
-* Conversion Implication (p if q)
+# Conversion Implication (p if q)
 
  a | b | a ← b
 --- | --- | ---
@@ -131,7 +131,7 @@ False | False  | False
 True | False | False
 False | False  | True
 
-* Logical Disjunction (p v q)
+# Logical Disjunction (p v q)
 
  a | b | a || b
 --- | --- | ---
@@ -140,7 +140,7 @@ False | False  | True
 True | False | True
 False | False  | False
 
-* Tautology  (V pq)
+# Tautology  (V pq)
 
  a | b | Vab
 --- | --- | ---
