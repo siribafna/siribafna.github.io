@@ -3,7 +3,6 @@ layout: post
 title: The Observer Pattern
 ---
 
-# The Observer Pattern
 The Observer Pattern, one of the many behavioral design patterns that Java consists of, is known for stating and managing communication between an "observable", which is an *object*, and its observers. These objects notifies and updates changes in its state to its observers.
 
 **We can implement this pattern in the following way:**
