@@ -20,7 +20,7 @@ All objects, classes and methods share and contribute to one goal and are not de
 ### Controller
 Delegates how information is passed through classes, objects and essentially, the program.
 
-###Indecision
+### Indecision
 Could be called the parent of a controller, isn't smart in itself but likes to have objects that are worthy of delegation.
 
 ### Polymorphism
